@@ -1,0 +1,15 @@
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\bin\Debug\net6.0\3_Modul_Imtixon_1_Savol.exe
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\bin\Debug\net6.0\3_Modul_Imtixon_1_Savol.deps.json
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\bin\Debug\net6.0\3_Modul_Imtixon_1_Savol.runtimeconfig.json
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\bin\Debug\net6.0\3_Modul_Imtixon_1_Savol.dll
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\bin\Debug\net6.0\3_Modul_Imtixon_1_Savol.pdb
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.csproj.AssemblyReference.cache
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.AssemblyInfoInputs.cache
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.AssemblyInfo.cs
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.csproj.CoreCompileInputs.cache
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.dll
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\refint\3_Modul_Imtixon_1_Savol.dll
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.pdb
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\3_Modul_Imtixon_1_Savol.genruntimeconfig.cache
+C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\3_Modul_Imtixon_1_Savol\obj\Debug\net6.0\ref\3_Modul_Imtixon_1_Savol.dll
